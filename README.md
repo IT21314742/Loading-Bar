@@ -1,3 +1,1 @@
-                                                                              Loading Bar
-
-
+Loading Bar

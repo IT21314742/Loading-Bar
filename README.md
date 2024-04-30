@@ -5,4 +5,4 @@ Enhance the visual appeal and user experience of your web applications with a Lo
 
 _**Key Features:**_
 
-- **Dynamic Animation:**  Enjoy smooth and fluid animation effects that
+- **Dynamic Animation:**      Enjoy smooth and fluid animation effects that

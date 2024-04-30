@@ -1,3 +1,3 @@
 Loading Bar
 
-Enhance the visual
+Enhance the visual appeal and user

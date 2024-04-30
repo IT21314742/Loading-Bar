@@ -4,8 +4,7 @@ Enhance the visual appeal and user experience of your web applications with a Lo
 
 
 _**Key Features:**_
-
-          - **Dynamic Animation:**      Enjoy smooth and fluid animation effects that visually represent progress and activity within the application.
-          - **Customizable Styles:**   Tailor the appearance of the loading bar to match your application's design aesthetic and branding.
-          - **Versatile Usage:**  Integrate the loading bar into various partsof your application, including page transitions, data fetching, and form submissions.
-          - **Responsive Design:**  Ensure seamless display across devices with a responsive layout that adapts to different screen sizes.
+          - Dynamic Animation: Enjoy smooth and fluid animation effects that visually represent progress and activity within the application.
+          - Customizable Styles: Tailor the appearance of the loading bar to match your application's design aesthetic and branding.
+          - Versatile Usage: Integrate the loading bar into various parts of your application, including page transitions, data fetching, and form submissions.
+          - Responsive Design: Ensure seamless display across devices with a responsive layout that adapts to different screen sizes.

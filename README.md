@@ -1,1 +1,1 @@
-  Loading Bar Created with HTML, CSS and .
+   Bar Created with HTML, CSS and .

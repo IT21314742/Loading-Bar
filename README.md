@@ -7,4 +7,4 @@ _**Key Features:**_
 
 - **Dynamic Animation:**      Enjoy smooth and fluid animation effects that visually represent progress and activity within the application.
 - **Customizable Styles:**   Tailor the appearance of the loading bar to match your application's design aesthetic and branding.
-- **Versatile Usage:**
+- **Versatile Usage:**  Integrate the loading bar into various parts

@@ -1,1 +1,1 @@
- Fully Functional Loading Bar Created with HTML, CSS and .
+ Functional Loading Bar Created with HTML, CSS and .
